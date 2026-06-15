@@ -1,0 +1,22 @@
+AI-102 - Azure AI Vision Study Notes
+
+Official References:
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102
+https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/
+
+Topics to Master:
+- Image Analysis
+- OCR
+- Read API
+- Object Detection
+- Image Classification
+- Face-related capabilities (know current service limitations)
+- Video Indexer
+- Spatial Analysis
+- Custom Vision models
+
+Exam Focus:
+- Extract text from images
+- Analyze image features
+- Train and publish custom vision models
+- Evaluate model metrics

@@ -1,0 +1,50 @@
+AI-102 RAPID REVIEW CHEAT SHEET
+
+Azure OpenAI
+- GPT = Generation
+- Embeddings = Similarity Search
+- RAG = Search + OpenAI
+
+AI Search
+- Index
+- Indexer
+- Skillset
+- Semantic Search
+- Vector Search
+
+Vision
+- OCR
+- Read API
+- Object Detection
+
+Speech
+- STT
+- TTS
+- Translation
+- SSML
+
+Document Intelligence
+- Prebuilt Models
+- Custom Models
+- Composed Models
+
+FREQUENT EXAM DISTINCTIONS
+
+OCR vs Document Intelligence
+- OCR extracts text
+- Document Intelligence extracts structured fields
+
+Semantic vs Vector Search
+- Semantic understands language
+- Vector uses embeddings similarity
+
+Custom Model vs Composed Model
+- Custom learns one type
+- Composed routes multiple types
+
+LAST WEEK REVISION PRIORITY
+1. Azure OpenAI
+2. AI Search
+3. Document Intelligence
+4. Vision
+5. Speech

@@ -1,0 +1,35 @@
+AI-102 AZURE OPENAI EXAM PACK
+
+KEY SERVICES
+- Azure OpenAI
+- GPT Models
+- Embeddings Models
+- Chat Completions
+- Responses API concepts
+- Azure AI Foundry
+
+COMMON EXAM QUESTIONS
+1. Which model for chatbot?
+   - GPT model
+
+2. Which model for semantic similarity?
+   - Embeddings model
+
+3. Which feature reduces hallucinations?
+   - Grounding using Azure AI Search (RAG)
+
+PROMPT ENGINEERING
+- System message
+- User message
+- Assistant message
+- Temperature
+- Top P
+
+RESPONSIBLE AI
+- Content filters
+- Abuse monitoring
+- Human oversight
+
+STUDY URLS
+https://learn.microsoft.com/azure/ai-services/openai/
+https://learn.microsoft.com/training/paths/develop-ai-solutions-azure-openai/

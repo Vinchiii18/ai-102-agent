@@ -1,0 +1,26 @@
+AI-102 DOCUMENT INTELLIGENCE EXAM PACK
+
+PREBUILT MODELS
+- Invoice
+- Receipt
+- ID Document
+- Health Insurance Card
+
+CUSTOM MODELS
+- Trained using your documents
+
+COMPOSED MODEL
+- Routes multiple document types
+
+EXAM TRAPS
+Need health insurance fields?
+-> Use Health Insurance Card prebuilt model
+
+Need identity extraction?
+-> Use ID Document model
+
+Need layout only?
+-> Use Layout model
+
+STUDY URLS
+https://learn.microsoft.com/azure/ai-services/document-intelligence/

@@ -1,0 +1,26 @@
+AI-102 - Azure AI Search Study Notes
+
+Official References:
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102
+https://learn.microsoft.com/en-us/azure/search/
+
+Topics to Master:
+- Search service creation
+- Indexes
+- Indexers
+- Data sources
+- Skillsets
+- Cognitive enrichment
+- Knowledge store
+- Semantic search
+- Vector search
+- Hybrid search
+- Filters, facets, scoring profiles
+- RAG architectures
+
+Exam Focus:
+- Create index and skillset
+- Configure indexers
+- Implement semantic ranking
+- Implement vector search
+- Integrate Azure AI Search with Azure OpenAI

@@ -1,0 +1,21 @@
+AI-102 - Azure AI Document Intelligence Study Notes
+
+Official References:
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102
+https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/
+
+Topics to Master:
+- Prebuilt Models
+- Custom Models
+- Composed Models
+- Health Insurance Card model
+- ID Document model
+- Layout model
+- Field extraction
+- Training and publishing models
+
+Exam Focus:
+- When to use prebuilt vs custom models
+- Train custom extraction models
+- Create composed models
+- Analyze invoices, receipts, IDs, and insurance cards

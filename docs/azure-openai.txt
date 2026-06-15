@@ -1,0 +1,24 @@
+AI-102 - Azure OpenAI Study Notes
+
+Official References:
+https://learn.microsoft.com/en-us/learn/certifications/exams/ai-102
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102
+
+Topics to Master:
+- Azure OpenAI resource deployment
+- GPT models and deployments
+- Prompt engineering
+- System messages
+- Chat Completions API
+- Embeddings
+- Retrieval Augmented Generation (RAG)
+- Azure AI Foundry
+- Content filters and Responsible AI
+- Grounding with Azure AI Search
+- Authentication using API Keys and Microsoft Entra ID
+
+Exam Focus:
+- Choose the correct model
+- Configure deployments
+- Integrate Azure AI Search with Azure OpenAI
+- Secure and monitor Azure OpenAI workloads

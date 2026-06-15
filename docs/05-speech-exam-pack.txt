@@ -1,0 +1,25 @@
+AI-102 SPEECH EXAM PACK
+
+FEATURES
+- Speech to Text
+- Text to Speech
+- Translation
+- Custom Speech
+
+SSML TAGS
+- prosody
+- break
+- emphasis
+
+COMMON EXAM QUESTIONS
+Need speech recognition?
+-> Speech-to-Text
+
+Need voice generation?
+-> Text-to-Speech
+
+Need multilingual voice translation?
+-> Speech Translation
+
+STUDY URLS
+https://learn.microsoft.com/azure/ai-services/speech-service/

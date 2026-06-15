@@ -1,0 +1,20 @@
+AI-102 VISION EXAM PACK
+
+SERVICES
+- OCR
+- Read API
+- Image Analysis
+- Object Detection
+
+WHEN TO USE
+Extract text -> OCR / Read API
+Detect objects -> Object Detection
+Analyze image -> Image Analysis
+
+COMMON EXAM PATTERNS
+Scanned forms -> OCR
+Road traffic analysis -> Object Detection
+Photo tagging -> Image Analysis
+
+STUDY URLS
+https://learn.microsoft.com/azure/ai-services/computer-vision/

@@ -1,0 +1,21 @@
+AI-102 - Azure AI Speech Study Notes
+
+Official References:
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102
+https://learn.microsoft.com/en-us/azure/ai-services/speech-service/
+
+Topics to Master:
+- Speech-to-Text (STT)
+- Text-to-Speech (TTS)
+- Speech Translation
+- SSML
+- Custom Speech
+- Keyword Recognition
+- Intent Recognition
+- Speech SDK
+
+Exam Focus:
+- Configure speech services
+- Use SSML to improve voice output
+- Implement speech translation
+- Customize speech models

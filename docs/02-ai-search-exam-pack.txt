@@ -1,0 +1,29 @@
+AI-102 AZURE AI SEARCH EXAM PACK
+
+CORE OBJECTS
+- Data Source
+- Index
+- Indexer
+- Skillset
+- Knowledge Store
+
+SEARCH TYPES
+- Keyword Search
+- Semantic Search
+- Vector Search
+- Hybrid Search
+
+EXAM TRAPS
+- Vector Search -> Embeddings required
+- Semantic Ranking -> Improves result quality
+- Skillsets -> AI enrichment pipeline
+
+RAG FLOW
+Documents
+ -> Indexer
+ -> AI Search Index
+ -> Retrieval
+ -> Azure OpenAI
+
+STUDY URLS
+https://learn.microsoft.com/azure/search/
