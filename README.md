@@ -15,12 +15,11 @@ Ollama (local LLM)
 HTML/CSS/JavaScript
 Microsoft Learn documentation
 📦 Installation
-
 1. Clone the repository
-   git clone https://github.com/YOUR_USERNAME/ai102-agent.git
-   cd ai102-agent
+git clone [https://github.com/YOUR_USERNAME/ai102-agent.git](https://github.com/Vinchiii18/ai-102-agent.git)
+cd ai102-agent
 2. Install dependencies
-   npm install
+npm install
 3. Install Ollama
 
 Download and install:
@@ -29,7 +28,8 @@ https://ollama.com
 
 Then pull a model:
 
-ollama pull llama3 4. Add study materials
+ollama pull llama3
+4. Add study materials
 
 Place Microsoft Learn content inside:
 
@@ -40,7 +40,8 @@ Example:
 docs/
 ├── ai-search.txt
 ├── azure-openai.txt
-├── vision.txt 5. Run the app
+├── vision.txt
+5. Run the app
 node server.js
 
 Then open:
