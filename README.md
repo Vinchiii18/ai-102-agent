@@ -1,4 +1,4 @@
-📘 AI-102 Study Agent (Local AI Tutor)
+📘 AI-102 Study  (Local AI Tutor)
 
 A simple AI-powered web application that helps users study for the Microsoft AI-102 certification using local AI (Ollama) and Microsoft Learn documentation.
 
@@ -16,8 +16,8 @@ HTML/CSS/JavaScript
 Microsoft Learn documentation
 📦 Installation
 1. Clone the repository
-git clone https://github.com/Vinchiii18/ai-102-agent.git
-cd ai102-agent
+git clone https://github.com/Vinchiii18/ai-102-.git
+cd ai102-
 2. Install dependencies
 npm install
 3. Install Ollama
