@@ -16,7 +16,7 @@ HTML/CSS/JavaScript
 Microsoft Learn documentation
 📦 Installation
 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/ai102-agent.git](https://github.com/Vinchiii18/ai-102-agent.git)
+git clone https://github.com/Vinchiii18/ai-102-agent.git
 cd ai102-agent
 2. Install dependencies
 npm install
